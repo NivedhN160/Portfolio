@@ -1,0 +1,294 @@
+{
+  "generated_at": "2026-06-24T16:51:28.807521+00:00",
+  "featured": "ZigNGPTv2.0",
+  "projects": [
+    {
+      "name": "ZigNGPTv2.0",
+      "description": "",
+      "url": "https://github.com/NivedhN160/ZigNGPTv2.0",
+      "language": "Zig",
+      "score": 100,
+      "last_updated": "2026-06-24T16:30:00Z",
+      "homepage": ""
+    },
+    {
+      "name": "Terra-X",
+      "description": "",
+      "url": "https://github.com/NivedhN160/Terra-X",
+      "language": "JavaScript",
+      "score": 90,
+      "last_updated": "2026-02-19T04:47:21Z",
+      "homepage": ""
+    },
+    {
+      "name": "promptwars",
+      "description": "",
+      "url": "https://github.com/NivedhN160/promptwars",
+      "language": "HTML",
+      "score": 85,
+      "last_updated": "2026-06-21T15:51:00Z",
+      "homepage": ""
+    },
+    {
+      "name": "Hacknight-blr-elastic-aws",
+      "description": "",
+      "url": "https://github.com/NivedhN160/Hacknight-blr-elastic-aws",
+      "language": "JavaScript",
+      "score": 81,
+      "last_updated": "2026-05-09T11:44:04Z",
+      "homepage": ""
+    },
+    {
+      "name": "Emotion-Aware-Code-Debugging-Assistant",
+      "description": "",
+      "url": "https://github.com/NivedhN160/Emotion-Aware-Code-Debugging-Assistant",
+      "language": "Python",
+      "score": 78,
+      "last_updated": "2025-12-17T10:45:29Z",
+      "homepage": ""
+    },
+    {
+      "name": "ZigNGPT",
+      "description": "",
+      "url": "https://github.com/NivedhN160/ZigNGPT",
+      "language": "Zig",
+      "score": 70,
+      "last_updated": "2026-03-08T16:20:28Z",
+      "homepage": ""
+    },
+    {
+      "name": "Helicopter-Game-Using-ALLEGRO-5",
+      "description": "",
+      "url": "https://github.com/NivedhN160/Helicopter-Game-Using-ALLEGRO-5",
+      "language": "C++",
+      "score": 63,
+      "last_updated": "2025-08-25T07:21:57Z",
+      "homepage": ""
+    },
+    {
+      "name": "HelicopterGame-with-helicopter-drawn-using-Allegro5",
+      "description": "",
+      "url": "https://github.com/NivedhN160/HelicopterGame-with-helicopter-drawn-using-Allegro5",
+      "language": "C++",
+      "score": 63,
+      "last_updated": "2025-06-18T15:49:04Z",
+      "homepage": ""
+    },
+    {
+      "name": "Jarvis-Runtime",
+      "description": "",
+      "url": "https://github.com/NivedhN160/Jarvis-Runtime",
+      "language": "Python",
+      "score": 43,
+      "last_updated": "2026-03-28T08:36:13Z",
+      "homepage": "https://jarvis-runtime.vercel.app"
+    },
+    {
+      "name": "Pre-trained-Generative-model-with-DuckDuckGo-access",
+      "description": "",
+      "url": "https://github.com/NivedhN160/Pre-trained-Generative-model-with-DuckDuckGo-access",
+      "language": "Python",
+      "score": 40,
+      "last_updated": "2025-09-12T13:43:58Z",
+      "homepage": ""
+    },
+    {
+      "name": "Full-stack-Development-Lab-7",
+      "description": "",
+      "url": "https://github.com/NivedhN160/Full-stack-Development-Lab-7",
+      "language": "JavaScript",
+      "score": 24,
+      "last_updated": "2026-03-25T16:00:17Z",
+      "homepage": ""
+    },
+    {
+      "name": "ATC-lab",
+      "description": "",
+      "url": "https://github.com/NivedhN160/ATC-lab",
+      "language": "C",
+      "score": 0,
+      "last_updated": "2026-03-26T06:21:40Z",
+      "homepage": ""
+    },
+    {
+      "name": "Automata-Theory-and-Compiler-Design-Lab",
+      "description": "",
+      "url": "https://github.com/NivedhN160/Automata-Theory-and-Compiler-Design-Lab",
+      "language": "Unknown",
+      "score": 0,
+      "last_updated": "2026-02-02T08:13:31Z",
+      "homepage": ""
+    },
+    {
+      "name": "Design-Analysis--and-Algorithm",
+      "description": "",
+      "url": "https://github.com/NivedhN160/Design-Analysis--and-Algorithm",
+      "language": "Python",
+      "score": 0,
+      "last_updated": "2026-03-26T04:41:42Z",
+      "homepage": ""
+    },
+    {
+      "name": "Design-Thinking-for-software-engineers-lab",
+      "description": "main",
+      "url": "https://github.com/NivedhN160/Design-Thinking-for-software-engineers-lab",
+      "language": "Unknown",
+      "score": 0,
+      "last_updated": "2026-04-05T14:31:01Z",
+      "homepage": ""
+    },
+    {
+      "name": "e-commerce-card",
+      "description": "",
+      "url": "https://github.com/NivedhN160/e-commerce-card",
+      "language": "JavaScript",
+      "score": 0,
+      "last_updated": "2026-03-27T05:02:40Z",
+      "homepage": ""
+    },
+    {
+      "name": "FSD-Module-2",
+      "description": "",
+      "url": "https://github.com/NivedhN160/FSD-Module-2",
+      "language": "JavaScript",
+      "score": 0,
+      "last_updated": "2026-02-24T04:44:11Z",
+      "homepage": ""
+    },
+    {
+      "name": "Full-Stack-Development-Lab-10",
+      "description": "",
+      "url": "https://github.com/NivedhN160/Full-Stack-Development-Lab-10",
+      "language": "JavaScript",
+      "score": 0,
+      "last_updated": "2026-04-07T03:14:54Z",
+      "homepage": ""
+    },
+    {
+      "name": "Full-stack-Development-Lab-2",
+      "description": "",
+      "url": "https://github.com/NivedhN160/Full-stack-Development-Lab-2",
+      "language": "JavaScript",
+      "score": 0,
+      "last_updated": "2026-02-04T02:33:42Z",
+      "homepage": ""
+    },
+    {
+      "name": "Full-Stack-Development-Lab-4",
+      "description": "",
+      "url": "https://github.com/NivedhN160/Full-Stack-Development-Lab-4",
+      "language": "JavaScript",
+      "score": 0,
+      "last_updated": "2026-02-18T02:49:49Z",
+      "homepage": ""
+    },
+    {
+      "name": "Full-stack-Development-Lab-5",
+      "description": "",
+      "url": "https://github.com/NivedhN160/Full-stack-Development-Lab-5",
+      "language": "JavaScript",
+      "score": 0,
+      "last_updated": "2026-03-01T07:08:15Z",
+      "homepage": ""
+    },
+    {
+      "name": "Full-stack-Development-Lab-6",
+      "description": "",
+      "url": "https://github.com/NivedhN160/Full-stack-Development-Lab-6",
+      "language": "JavaScript",
+      "score": 0,
+      "last_updated": "2026-03-11T07:07:27Z",
+      "homepage": ""
+    },
+    {
+      "name": "Full-Stack-Development-Lab-8",
+      "description": "",
+      "url": "https://github.com/NivedhN160/Full-Stack-Development-Lab-8",
+      "language": "CSS",
+      "score": 0,
+      "last_updated": "2026-04-07T02:06:27Z",
+      "homepage": ""
+    },
+    {
+      "name": "Full-Stack-Development-Lab-9",
+      "description": "",
+      "url": "https://github.com/NivedhN160/Full-Stack-Development-Lab-9",
+      "language": "JavaScript",
+      "score": 0,
+      "last_updated": "2026-04-07T02:23:13Z",
+      "homepage": ""
+    },
+    {
+      "name": "Full-stack-development-Lab-programs",
+      "description": "",
+      "url": "https://github.com/NivedhN160/Full-stack-development-Lab-programs",
+      "language": "HTML",
+      "score": 0,
+      "last_updated": "2026-02-24T04:51:51Z",
+      "homepage": ""
+    },
+    {
+      "name": "Full-Stack-Development-Lab3",
+      "description": "",
+      "url": "https://github.com/NivedhN160/Full-Stack-Development-Lab3",
+      "language": "JavaScript",
+      "score": 0,
+      "last_updated": "2026-02-04T13:44:16Z",
+      "homepage": ""
+    },
+    {
+      "name": "Jarvis-Runtime-2",
+      "description": "",
+      "url": "https://github.com/NivedhN160/Jarvis-Runtime-2",
+      "language": "JavaScript",
+      "score": 0,
+      "last_updated": "2026-02-14T05:54:33Z",
+      "homepage": ""
+    },
+    {
+      "name": "Portfolio",
+      "description": "",
+      "url": "https://github.com/NivedhN160/Portfolio",
+      "language": "Unknown",
+      "score": 0,
+      "last_updated": "2026-06-24T16:31:00Z",
+      "homepage": ""
+    },
+    {
+      "name": "Practice1",
+      "description": "",
+      "url": "https://github.com/NivedhN160/Practice1",
+      "language": "Unknown",
+      "score": 0,
+      "last_updated": "2026-01-27T04:58:35Z",
+      "homepage": ""
+    },
+    {
+      "name": "ransomware-assessment-system",
+      "description": "",
+      "url": "https://github.com/NivedhN160/ransomware-assessment-system",
+      "language": "HTML",
+      "score": 0,
+      "last_updated": "2026-03-24T14:49:14Z",
+      "homepage": ""
+    },
+    {
+      "name": "Video-Analyzer-and-camera-angle",
+      "description": "",
+      "url": "https://github.com/NivedhN160/Video-Analyzer-and-camera-angle",
+      "language": "Unknown",
+      "score": 0,
+      "last_updated": "2026-03-08T16:22:42Z",
+      "homepage": ""
+    },
+    {
+      "name": "VitePWA",
+      "description": "",
+      "url": "https://github.com/NivedhN160/VitePWA",
+      "language": "JavaScript",
+      "score": 0,
+      "last_updated": "2026-03-17T03:01:08Z",
+      "homepage": ""
+    }
+  ]
+}
