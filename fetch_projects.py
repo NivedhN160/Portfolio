@@ -14,13 +14,13 @@ if os.path.exists(".env"):
                 os.environ[key.strip()] = val.strip().strip('"').strip("'")
 
 USERNAME = "NivedhN160"
-GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN")
+GH_PAT = os.environ.get("GH_PAT")
 
 def fetch_repos():
     url = f"https://api.github.com/users/{USERNAME}/repos?per_page=100&type=owner"
     headers = {"Accept": "application/vnd.github.v3+json"}
-    if GITHUB_TOKEN:
-        headers["Authorization"] = f"token {GITHUB_TOKEN}"
+    if GH_PAT:
+        headers["Authorization"] = f"token {GH_PAT}"
     
     req = urllib.request.Request(url, headers=headers)
     try:
@@ -33,8 +33,8 @@ def fetch_repos():
 def fetch_readme(repo_name):
     url = f"https://api.github.com/repos/{USERNAME}/{repo_name}/readme"
     headers = {"Accept": "application/vnd.github.v3+json"}
-    if GITHUB_TOKEN:
-        headers["Authorization"] = f"token {GITHUB_TOKEN}"
+    if GH_PAT:
+        headers["Authorization"] = f"token {GH_PAT}"
         
     req = urllib.request.Request(url, headers=headers)
     try:
