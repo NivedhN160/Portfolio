@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T01:59:28.319001+00:00",
+  "generated_at": "2026-06-29T02:00:28.652348+00:00",
   "featured": "ZigNGPTv2.0",
   "projects": [
     {
@@ -72,6 +72,15 @@
       "language": "C++",
       "score": 63,
       "last_updated": "2025-06-18T15:49:04Z",
+      "homepage": ""
+    },
+    {
+      "name": "N-OS",
+      "description": "",
+      "url": "https://github.com/NivedhN160/N-OS",
+      "language": "C",
+      "score": 56,
+      "last_updated": "2026-06-28T17:08:42Z",
       "homepage": ""
     },
     {
@@ -251,7 +260,7 @@
       "url": "https://github.com/NivedhN160/Portfolio",
       "language": "JavaScript",
       "score": 0,
-      "last_updated": "2026-06-27T01:49:26Z",
+      "last_updated": "2026-06-28T01:59:29Z",
       "homepage": ""
     },
     {
