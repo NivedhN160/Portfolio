@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T01:23:17.277769+00:00",
+  "generated_at": "2026-07-10T01:20:37.489010+00:00",
   "featured": "ZigNGPTv2.0",
   "projects": [
     {
@@ -126,6 +126,24 @@
       "language": "Java",
       "score": 0,
       "last_updated": "2026-06-30T10:26:02Z",
+      "homepage": ""
+    },
+    {
+      "name": "Advanced-Python-Programs",
+      "description": "",
+      "url": "https://github.com/NivedhN160/Advanced-Python-Programs",
+      "language": "Python",
+      "score": 0,
+      "last_updated": "2026-07-09T07:53:38Z",
+      "homepage": ""
+    },
+    {
+      "name": "AIML-Lab",
+      "description": "",
+      "url": "https://github.com/NivedhN160/AIML-Lab",
+      "language": "Python",
+      "score": 0,
+      "last_updated": "2026-07-09T07:50:41Z",
       "homepage": ""
     },
     {
@@ -278,7 +296,7 @@
       "url": "https://github.com/NivedhN160/Portfolio",
       "language": "JavaScript",
       "score": 0,
-      "last_updated": "2026-07-08T01:15:15Z",
+      "last_updated": "2026-07-09T01:23:18Z",
       "homepage": ""
     },
     {
