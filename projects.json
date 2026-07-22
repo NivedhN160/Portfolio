@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T01:14:07.222592+00:00",
+  "generated_at": "2026-07-22T01:12:08.399233+00:00",
   "featured": "Browser-Use-Hackathon",
   "projects": [
     {
@@ -30,15 +30,6 @@
       "homepage": ""
     },
     {
-      "name": "promptwars",
-      "description": "",
-      "url": "https://github.com/NivedhN160/promptwars",
-      "language": "HTML",
-      "score": 85,
-      "last_updated": "2026-06-21T15:51:00Z",
-      "homepage": ""
-    },
-    {
       "name": "Hacknight-blr-elastic-aws",
       "description": "",
       "url": "https://github.com/NivedhN160/Hacknight-blr-elastic-aws",
@@ -54,6 +45,15 @@
       "language": "Python",
       "score": 78,
       "last_updated": "2025-12-17T10:45:29Z",
+      "homepage": ""
+    },
+    {
+      "name": "promptwars",
+      "description": "",
+      "url": "https://github.com/NivedhN160/promptwars",
+      "language": "HTML",
+      "score": 75,
+      "last_updated": "2026-06-21T15:51:00Z",
       "homepage": ""
     },
     {
@@ -314,7 +314,7 @@
       "url": "https://github.com/NivedhN160/Portfolio",
       "language": "JavaScript",
       "score": 0,
-      "last_updated": "2026-07-20T03:07:04Z",
+      "last_updated": "2026-07-21T01:14:08Z",
       "homepage": ""
     },
     {
