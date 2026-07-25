@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T01:15:37.093394+00:00",
+  "generated_at": "2026-07-25T01:16:59.546793+00:00",
   "featured": "Browser-Use-Hackathon",
   "projects": [
     {
@@ -12,21 +12,21 @@
       "homepage": ""
     },
     {
-      "name": "ZigNGPTv2.0",
-      "description": "",
-      "url": "https://github.com/NivedhN160/ZigNGPTv2.0",
-      "language": "Zig",
-      "score": 100,
-      "last_updated": "2026-06-24T16:30:00Z",
-      "homepage": ""
-    },
-    {
       "name": "Terra-X",
       "description": "",
       "url": "https://github.com/NivedhN160/Terra-X",
       "language": "JavaScript",
       "score": 90,
       "last_updated": "2026-02-19T04:47:21Z",
+      "homepage": ""
+    },
+    {
+      "name": "ZigNGPTv2.0",
+      "description": "",
+      "url": "https://github.com/NivedhN160/ZigNGPTv2.0",
+      "language": "Zig",
+      "score": 90,
+      "last_updated": "2026-06-24T16:30:00Z",
       "homepage": ""
     },
     {
@@ -314,7 +314,7 @@
       "url": "https://github.com/NivedhN160/Portfolio",
       "language": "JavaScript",
       "score": 0,
-      "last_updated": "2026-07-23T01:19:55Z",
+      "last_updated": "2026-07-24T01:15:37Z",
       "homepage": ""
     },
     {
