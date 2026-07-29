@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T01:11:15.700046+00:00",
+  "generated_at": "2026-07-29T01:14:31.281115+00:00",
   "featured": "Browser-Use-Hackathon",
   "projects": [
     {
@@ -126,6 +126,24 @@
       "language": "JavaScript",
       "score": 24,
       "last_updated": "2026-03-25T16:00:17Z",
+      "homepage": ""
+    },
+    {
+      "name": "NivedhN160",
+      "description": "",
+      "url": "https://github.com/NivedhN160/NivedhN160",
+      "language": "Python",
+      "score": 20,
+      "last_updated": "2026-07-28T16:02:28Z",
+      "homepage": ""
+    },
+    {
+      "name": "customer-accounts",
+      "description": "",
+      "url": "https://github.com/NivedhN160/customer-accounts",
+      "language": "Python",
+      "score": 10,
+      "last_updated": "2026-07-28T17:40:54Z",
       "homepage": ""
     },
     {
@@ -323,7 +341,7 @@
       "url": "https://github.com/NivedhN160/Portfolio",
       "language": "JavaScript",
       "score": 0,
-      "last_updated": "2026-07-27T01:23:51Z",
+      "last_updated": "2026-07-28T01:11:16Z",
       "homepage": ""
     },
     {
