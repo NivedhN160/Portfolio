@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T01:19:44.954714+00:00",
+  "generated_at": "2026-08-04T01:11:44.389620+00:00",
   "featured": "Browser-Use-Hackathon",
   "projects": [
     {
@@ -13,11 +13,11 @@
     },
     {
       "name": "N.E.O.S",
-      "description": "N.E.O.S (Neural Executive Operating System) is a local, open-source autonomous AI orchestrator designed to run entirely offline.",
+      "description": "Autonomous AI orchestrator with 3D holographic UI, seamless VAD voice interface, persistent memory, and lightning-fast Groq API tool execution.",
       "url": "https://github.com/NivedhN160/N.E.O.S",
       "language": "Python",
       "score": 100,
-      "last_updated": "2026-08-01T17:54:10Z",
+      "last_updated": "2026-08-03T14:31:09Z",
       "homepage": ""
     },
     {
@@ -31,7 +31,7 @@
     },
     {
       "name": "ZigNGPTv2.0",
-      "description": "",
+      "description": "Offline AI assistant in pure Zig \u2014 custom autograd engine + Transformer from scratch, with Markov fallback, mood system, and local training.",
       "url": "https://github.com/NivedhN160/ZigNGPTv2.0",
       "language": "Zig",
       "score": 90,
@@ -49,7 +49,7 @@
     },
     {
       "name": "Emotion-Aware-Code-Debugging-Assistant",
-      "description": "",
+      "description": "Real-time computer vision system that monitors facial cues, blink rate, head pose, and emotion to estimate developer frustration and trigger debugging interventions.",
       "url": "https://github.com/NivedhN160/Emotion-Aware-Code-Debugging-Assistant",
       "language": "Python",
       "score": 78,
@@ -76,7 +76,7 @@
     },
     {
       "name": "ZigNGPT",
-      "description": "",
+      "description": "Ultra-lightweight offline AI chat in Zig using trigram/Markov models, dynamic moods, and DuckDuckGo search \u2014 zero heavy dependencies.",
       "url": "https://github.com/NivedhN160/ZigNGPT",
       "language": "Zig",
       "score": 70,
@@ -103,7 +103,7 @@
     },
     {
       "name": "N-OS",
-      "description": "",
+      "description": "32-bit bare-metal OS written in C \u2014 paging, preemptive multitasking, ATA/FAT32 VFS, TCP/IP stack, PE & ELF loaders, and a Win32 compatibility layer.",
       "url": "https://github.com/NivedhN160/N-OS",
       "language": "C",
       "score": 56,
@@ -121,20 +121,11 @@
     },
     {
       "name": "Pre-trained-Generative-model-with-DuckDuckGo-access",
-      "description": "",
+      "description": "Hybrid chatbot using LLaMA 2 + GPT-Neo with retrieval QA, DuckDuckGo web search, voice input/output, and a FastAPI + web GUI interface.",
       "url": "https://github.com/NivedhN160/Pre-trained-Generative-model-with-DuckDuckGo-access",
       "language": "Python",
       "score": 40,
       "last_updated": "2025-09-12T13:43:58Z",
-      "homepage": ""
-    },
-    {
-      "name": "Full-stack-Development-Lab-7",
-      "description": "",
-      "url": "https://github.com/NivedhN160/Full-stack-Development-Lab-7",
-      "language": "JavaScript",
-      "score": 24,
-      "last_updated": "2026-03-25T16:00:17Z",
       "homepage": ""
     },
     {
@@ -153,6 +144,15 @@
       "language": "Python",
       "score": 10,
       "last_updated": "2026-07-28T17:40:54Z",
+      "homepage": ""
+    },
+    {
+      "name": "Accessible-Form",
+      "description": "",
+      "url": "https://github.com/NivedhN160/Accessible-Form",
+      "language": "JavaScript",
+      "score": 0,
+      "last_updated": "2026-04-07T02:23:13Z",
       "homepage": ""
     },
     {
@@ -192,21 +192,21 @@
       "homepage": ""
     },
     {
-      "name": "ATC-lab",
+      "name": "Algorithms-In-Python-And-Cpp",
       "description": "",
-      "url": "https://github.com/NivedhN160/ATC-lab",
-      "language": "C",
+      "url": "https://github.com/NivedhN160/Algorithms-In-Python-And-Cpp",
+      "language": "Python",
       "score": 0,
-      "last_updated": "2026-03-26T06:21:40Z",
+      "last_updated": "2026-03-26T04:41:42Z",
       "homepage": ""
     },
     {
-      "name": "Automata-Theory-and-Compiler-Design-Lab",
+      "name": "Auth-token-demo",
       "description": "",
-      "url": "https://github.com/NivedhN160/Automata-Theory-and-Compiler-Design-Lab",
-      "language": "Unknown",
+      "url": "https://github.com/NivedhN160/Auth-token-demo",
+      "language": "CSS",
       "score": 0,
-      "last_updated": "2026-02-02T08:13:31Z",
+      "last_updated": "2026-04-07T02:06:27Z",
       "homepage": ""
     },
     {
@@ -219,21 +219,12 @@
       "homepage": ""
     },
     {
-      "name": "Design-Analysis--and-Algorithm",
+      "name": "Compiler-Construction",
       "description": "",
-      "url": "https://github.com/NivedhN160/Design-Analysis--and-Algorithm",
-      "language": "Python",
+      "url": "https://github.com/NivedhN160/Compiler-Construction",
+      "language": "C",
       "score": 0,
-      "last_updated": "2026-03-26T04:41:42Z",
-      "homepage": ""
-    },
-    {
-      "name": "Design-Thinking-for-software-engineers-lab",
-      "description": "main",
-      "url": "https://github.com/NivedhN160/Design-Thinking-for-software-engineers-lab",
-      "language": "Unknown",
-      "score": 0,
-      "last_updated": "2026-04-05T14:31:01Z",
+      "last_updated": "2026-03-26T06:21:40Z",
       "homepage": ""
     },
     {
@@ -255,87 +246,6 @@
       "homepage": ""
     },
     {
-      "name": "Full-Stack-Development-Lab-10",
-      "description": "",
-      "url": "https://github.com/NivedhN160/Full-Stack-Development-Lab-10",
-      "language": "JavaScript",
-      "score": 0,
-      "last_updated": "2026-04-07T03:14:54Z",
-      "homepage": ""
-    },
-    {
-      "name": "Full-stack-Development-Lab-2",
-      "description": "",
-      "url": "https://github.com/NivedhN160/Full-stack-Development-Lab-2",
-      "language": "JavaScript",
-      "score": 0,
-      "last_updated": "2026-02-04T02:33:42Z",
-      "homepage": ""
-    },
-    {
-      "name": "Full-Stack-Development-Lab-4",
-      "description": "",
-      "url": "https://github.com/NivedhN160/Full-Stack-Development-Lab-4",
-      "language": "JavaScript",
-      "score": 0,
-      "last_updated": "2026-02-18T02:49:49Z",
-      "homepage": ""
-    },
-    {
-      "name": "Full-stack-Development-Lab-5",
-      "description": "",
-      "url": "https://github.com/NivedhN160/Full-stack-Development-Lab-5",
-      "language": "JavaScript",
-      "score": 0,
-      "last_updated": "2026-03-01T07:08:15Z",
-      "homepage": ""
-    },
-    {
-      "name": "Full-stack-Development-Lab-6",
-      "description": "",
-      "url": "https://github.com/NivedhN160/Full-stack-Development-Lab-6",
-      "language": "JavaScript",
-      "score": 0,
-      "last_updated": "2026-03-11T07:07:27Z",
-      "homepage": ""
-    },
-    {
-      "name": "Full-Stack-Development-Lab-8",
-      "description": "",
-      "url": "https://github.com/NivedhN160/Full-Stack-Development-Lab-8",
-      "language": "CSS",
-      "score": 0,
-      "last_updated": "2026-04-07T02:06:27Z",
-      "homepage": ""
-    },
-    {
-      "name": "Full-Stack-Development-Lab-9",
-      "description": "",
-      "url": "https://github.com/NivedhN160/Full-Stack-Development-Lab-9",
-      "language": "JavaScript",
-      "score": 0,
-      "last_updated": "2026-04-07T02:23:13Z",
-      "homepage": ""
-    },
-    {
-      "name": "Full-stack-development-Lab-programs",
-      "description": "",
-      "url": "https://github.com/NivedhN160/Full-stack-development-Lab-programs",
-      "language": "HTML",
-      "score": 0,
-      "last_updated": "2026-02-24T04:51:51Z",
-      "homepage": ""
-    },
-    {
-      "name": "Full-Stack-Development-Lab3",
-      "description": "",
-      "url": "https://github.com/NivedhN160/Full-Stack-Development-Lab3",
-      "language": "JavaScript",
-      "score": 0,
-      "last_updated": "2026-02-04T13:44:16Z",
-      "homepage": ""
-    },
-    {
       "name": "Jarvis-Runtime-2",
       "description": "",
       "url": "https://github.com/NivedhN160/Jarvis-Runtime-2",
@@ -345,12 +255,21 @@
       "homepage": ""
     },
     {
+      "name": "Neon-cube-ThreeJS",
+      "description": "",
+      "url": "https://github.com/NivedhN160/Neon-cube-ThreeJS",
+      "language": "JavaScript",
+      "score": 0,
+      "last_updated": "2026-04-07T03:14:54Z",
+      "homepage": ""
+    },
+    {
       "name": "Portfolio",
       "description": "",
       "url": "https://github.com/NivedhN160/Portfolio",
       "language": "JavaScript",
       "score": 0,
-      "last_updated": "2026-08-02T01:18:40Z",
+      "last_updated": "2026-08-03T01:19:46Z",
       "homepage": ""
     },
     {
@@ -360,6 +279,15 @@
       "language": "Unknown",
       "score": 0,
       "last_updated": "2026-01-27T04:58:35Z",
+      "homepage": ""
+    },
+    {
+      "name": "pwa-Ecommerce-Alerts",
+      "description": "",
+      "url": "https://github.com/NivedhN160/pwa-Ecommerce-Alerts",
+      "language": "JavaScript",
+      "score": 0,
+      "last_updated": "2026-03-11T07:07:27Z",
       "homepage": ""
     },
     {
