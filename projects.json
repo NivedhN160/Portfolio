@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T01:11:44.389620+00:00",
+  "generated_at": "2026-08-05T01:12:29.084028+00:00",
   "featured": "Browser-Use-Hackathon",
   "projects": [
     {
@@ -111,18 +111,18 @@
       "homepage": ""
     },
     {
-      "name": "Jarvis-Runtime",
-      "description": "",
-      "url": "https://github.com/NivedhN160/Jarvis-Runtime",
+      "name": "MAT-CHA.AI",
+      "description": "MAT-CHA.AI \u2014 AI matchmaking for startups & creators: semantic vibe search, ephemeral chat, mutual deal confirm, FastAPI + React + MongoDB + ChromaDB.",
+      "url": "https://github.com/NivedhN160/MAT-CHA.AI",
       "language": "Python",
       "score": 43,
       "last_updated": "2026-03-28T08:36:13Z",
       "homepage": "https://jarvis-runtime.vercel.app"
     },
     {
-      "name": "Pre-trained-Generative-model-with-DuckDuckGo-access",
+      "name": "NGPT-llm-based",
       "description": "Hybrid chatbot using LLaMA 2 + GPT-Neo with retrieval QA, DuckDuckGo web search, voice input/output, and a FastAPI + web GUI interface.",
-      "url": "https://github.com/NivedhN160/Pre-trained-Generative-model-with-DuckDuckGo-access",
+      "url": "https://github.com/NivedhN160/NGPT-llm-based",
       "language": "Python",
       "score": 40,
       "last_updated": "2025-09-12T13:43:58Z",
@@ -237,6 +237,15 @@
       "homepage": ""
     },
     {
+      "name": "flyrank-internship",
+      "description": "FlyRank AI internship \u2014 FastAPI Task CRUD (Week 2) evolved into Postgres + Docker + Repository Pattern (Week 3), with staged commits and AI-vs-me prompt analysis.",
+      "url": "https://github.com/NivedhN160/flyrank-internship",
+      "language": "Python",
+      "score": 0,
+      "last_updated": "2026-08-04T18:52:59Z",
+      "homepage": ""
+    },
+    {
       "name": "FSD-Module-2",
       "description": "",
       "url": "https://github.com/NivedhN160/FSD-Module-2",
@@ -269,7 +278,7 @@
       "url": "https://github.com/NivedhN160/Portfolio",
       "language": "JavaScript",
       "score": 0,
-      "last_updated": "2026-08-03T01:19:46Z",
+      "last_updated": "2026-08-04T01:11:45Z",
       "homepage": ""
     },
     {
