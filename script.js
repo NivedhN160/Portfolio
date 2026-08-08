@@ -111,29 +111,32 @@ function openWindow(id, titleOverride, contentOverride) {
         } else if (id === 'resume') {
             contentArea.innerHTML = `<div class="content-inner" style="font-family: Arial, sans-serif; line-height: 1.4;">
                 <h1 style="margin: 0 0 5px 0; font-size: 20px;">NIVEDH SUNIL</h1>
-                <p style="margin: 0 0 15px 0; font-size: 12px; color: #555;">AI/ML Engineer | Full-Stack Developer | Agentic AI Developer<br>
-                <a href="mailto:nivedhn160@gmail.com">nivedhn160@gmail.com</a> | <a href="https://github.com/NivedhN160" target="_blank">github.com/NivedhN160</a> | <a href="https://linkedin.com/in/nivedh-sunil-9b5a71352" target="_blank">LinkedIn</a></p>
+                <p style="margin: 0 0 15px 0; font-size: 12px; color: #555;">Backend AI Engineer | Full-Stack Developer | Systems Builder<br>
+                <a href="mailto:nivedhn160@gmail.com">nivedhn160@gmail.com</a> | <a href="https://github.com/NivedhN160" target="_blank">github.com/NivedhN160</a> | <a href="https://linkedin.com/in/nivedhn160" target="_blank">LinkedIn</a></p>
                 
                 <h3 style="border-bottom: 1px solid #ccc; padding-bottom: 2px; margin-bottom: 5px;">PROFESSIONAL SUMMARY</h3>
-                <p style="font-size: 11px;">Passionate AI/ML practitioner with hands-on experience building agentic AI systems, full-stack web applications, and computer vision tools. Proficient in Python, Go, JavaScript, and C++, with production projects using LLMs, FastAPI, React, and cloud services.</p>
+                <p style="font-size: 11px;">Third-year CSE student and Backend AI Engineering Intern at FlyRank AI. Built production agentic backends (FastAPI + LLMs), a bare-metal OS in C, and a full transformer from scratch in Zig. Seeking full-time roles in Backend and AI Engineering.</p>
                 
-                <h3 style="border-bottom: 1px solid #ccc; padding-bottom: 2px; margin-bottom: 5px;">EDUCATION</h3>
-                <p style="font-size: 11px; margin: 2px 0;"><strong>Garden City University</strong> — B.Tech, Computer Science & Engineering (2024 - 2028)</p>
+                <h3 style="border-bottom: 1px solid #ccc; padding-bottom: 2px; margin-bottom: 5px;">EXPERIENCE</h3>
+                <p style="font-size: 11px; margin: 2px 0;"><strong>Backend AI Engineering Intern</strong> — FlyRank AI (2026 - Present)</p>
+                <ul style="font-size: 11px; padding-left: 20px; margin-top: 5px; margin-bottom: 10px;">
+                    <li>Shipped agentic AI backend systems to production in Python and FastAPI, integrating LLM reasoning into internal tooling.</li>
+                    <li>Designed and built REST APIs and backend infrastructure end-to-end for cohort-based capstone deliverables.</li>
+                </ul>
                 
-                <h3 style="border-bottom: 1px solid #ccc; padding-bottom: 2px; margin-bottom: 5px;">KEY PROJECTS</h3>
+                <h3 style="border-bottom: 1px solid #ccc; padding-bottom: 2px; margin-bottom: 5px;">FEATURED PROJECTS</h3>
                 <ul style="font-size: 11px; padding-left: 20px; margin-top: 5px;">
-                    <li><strong>NGPT (Custom LLM Interface):</strong> Built LLM chatbot using LLaMA 2, GPT-Neo, RAG, and DuckDuckGo search grounding.</li>
-                    <li><strong>MAT-CHA.AI:</strong> AI matching platform for Startups & Creators. Architected on AWS (Lambda, DynamoDB, Bedrock).</li>
-                    <li><strong>TERRA-X:</strong> Real-Time Global Scenario Simulation Lab using React Three Fiber and Groq LLaMA 3.3.</li>
-                    <li><strong>Emotion-Aware Debugging Assistant:</strong> Computer vision system using OpenCV and MediaPipe to estimate developer frustration.</li>
-                    <li><strong>ZigNGPTv1.0:</strong> Written a language model from scratch in Zig focusing on memory-safe, high-performance inference.</li>
+                    <li><strong>N-OS (Bare-Metal OS):</strong> Built a 32-bit OS from scratch in C with PE/ELF loaders and a hand-rolled TCP/IP stack.</li>
+                    <li><strong>N.E.O.S (AI Orchestrator):</strong> Built an autonomous AI orchestrator with real-time VAD and agentic tool-calling on Groq Llama 3.3.</li>
+                    <li><strong>ZigNGPT v2 (Transformer from Scratch):</strong> Hand-wrote attention and backpropagation at the matrix level in Zig without ML frameworks.</li>
+                    <li><strong>MAT-CHA.AI:</strong> Architected a serverless AWS pipeline for an AI matchmaking platform and extended it with an MCP tool server.</li>
                 </ul>
 
                 <h3 style="border-bottom: 1px solid #ccc; padding-bottom: 2px; margin-bottom: 5px;">TECHNICAL SKILLS</h3>
-                <p style="font-size: 11px;"><strong>Languages:</strong> Python, Go, JavaScript, C, C++, Java, SQL, HTML5, CSS3, Zig, VB.NET<br>
-                <strong>AI / ML:</strong> LLaMA 2/3, GPT-Neo, GPT-2, Groq, OpenCV, MediaPipe, DeepFace, PyTorch, Hugging Face, RAG, Prompt Engineering, Agentic AI<br>
-                <strong>Web & Backend:</strong> React, React Three Fiber, Three.js, FastAPI, Flask, Django REST Framework, Node.js, REST APIs<br>
-                <strong>Cloud & Databases:</strong> AWS Lambda, S3, DynamoDB, Bedrock, Amplify, MySQL, PostgreSQL, ClickHouse, Microsoft Fabric SQL</p>
+                <p style="font-size: 11px;"><strong>Languages:</strong> Python, JavaScript/Node.js, C, C++, Zig, Go, SQL<br>
+                <strong>AI / ML:</strong> LLaMA 2/3, Groq, OpenCV, MediaPipe, PyTorch, Hugging Face, RAG, Agentic AI, MCP<br>
+                <strong>Web & Backend:</strong> FastAPI, React, Flask, Django REST, Node.js, REST APIs<br>
+                <strong>Cloud & Databases:</strong> AWS (Lambda, S3, DynamoDB, Bedrock), PostgreSQL, Git, CI/CD</p>
             </div>`;
         } else if (id === 'my-computer') {
             contentArea.innerHTML = `<div class="content-inner"><p>Local Disk (C:)</p><p>Total Size: 500GB</p></div>`;
