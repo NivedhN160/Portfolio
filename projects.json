@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T01:54:09.642438+00:00",
+  "generated_at": "2026-08-08T00:36:28.387544+00:00",
   "featured": "AI-Fluency-Capstone",
   "projects": [
     {
@@ -9,6 +9,15 @@
       "language": "HTML",
       "score": 100,
       "last_updated": "2026-08-06T13:44:48Z",
+      "homepage": ""
+    },
+    {
+      "name": "AI-Image-Understanding-Content-Matching-Engine-Flyrank-Capstone",
+      "description": "AI image understanding & content matching \u2014 Vision metadata, semantic embeddings, mismatch guard, and article-to-image ranking with cost tracking.",
+      "url": "https://github.com/NivedhN160/AI-Image-Understanding-Content-Matching-Engine-Flyrank-Capstone",
+      "language": "Python",
+      "score": 100,
+      "last_updated": "2026-08-07T15:18:32Z",
       "homepage": ""
     },
     {
@@ -27,6 +36,24 @@
       "language": "Python",
       "score": 100,
       "last_updated": "2026-08-06T15:03:06Z",
+      "homepage": ""
+    },
+    {
+      "name": "LLM-Usage-Metering-Billing-Service-Flyrank-Capstone",
+      "description": "LLM usage metering & billing service \u2014 idempotent metering, quota enforcement (429/402), integer micro-cent pricing, and signature-verified Stripe webhooks.",
+      "url": "https://github.com/NivedhN160/LLM-Usage-Metering-Billing-Service-Flyrank-Capstone",
+      "language": "Python",
+      "score": 100,
+      "last_updated": "2026-08-07T15:34:05Z",
+      "homepage": ""
+    },
+    {
+      "name": "Multi-Platform-Social-Campaign-Publisher-Flyrank-Capstone",
+      "description": "Multi-platform social campaign publisher \u2014 turns blog posts into scheduled Instagram/X campaigns with idempotent delivery, AES-256-GCM token storage, 429 backoff, and signed webhooks.",
+      "url": "https://github.com/NivedhN160/Multi-Platform-Social-Campaign-Publisher-Flyrank-Capstone",
+      "language": "Python",
+      "score": 100,
+      "last_updated": "2026-08-07T16:15:15Z",
       "homepage": ""
     },
     {
@@ -260,7 +287,7 @@
       "url": "https://github.com/NivedhN160/flyrank-internship",
       "language": "HTML",
       "score": 0,
-      "last_updated": "2026-08-06T15:06:03Z",
+      "last_updated": "2026-08-07T16:48:00Z",
       "homepage": ""
     },
     {
@@ -296,7 +323,7 @@
       "url": "https://github.com/NivedhN160/Portfolio",
       "language": "JavaScript",
       "score": 0,
-      "last_updated": "2026-08-06T01:09:57Z",
+      "last_updated": "2026-08-07T01:54:10Z",
       "homepage": ""
     },
     {
