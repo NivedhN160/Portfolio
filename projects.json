@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T00:36:28.387544+00:00",
+  "generated_at": "2026-08-08T16:32:51.889200+00:00",
   "featured": "AI-Fluency-Capstone",
   "projects": [
     {
@@ -63,6 +63,15 @@
       "language": "Python",
       "score": 100,
       "last_updated": "2026-08-03T14:31:09Z",
+      "homepage": ""
+    },
+    {
+      "name": "Nexus",
+      "description": "Nexus \u2014 personal AI operations platform: agent shell, content/growth services, metering, matchmaking, and tool adapters. Post-internship integration of flagship and FlyRank systems.",
+      "url": "https://github.com/NivedhN160/Nexus",
+      "language": "Python",
+      "score": 98,
+      "last_updated": "2026-08-08T15:26:57Z",
       "homepage": ""
     },
     {
@@ -323,7 +332,7 @@
       "url": "https://github.com/NivedhN160/Portfolio",
       "language": "JavaScript",
       "score": 0,
-      "last_updated": "2026-08-07T01:54:10Z",
+      "last_updated": "2026-08-08T16:32:25Z",
       "homepage": ""
     },
     {
