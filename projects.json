@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T16:32:51.889200+00:00",
+  "generated_at": "2026-08-09T00:38:33.119258+00:00",
   "featured": "AI-Fluency-Capstone",
   "projects": [
     {
@@ -66,15 +66,6 @@
       "homepage": ""
     },
     {
-      "name": "Nexus",
-      "description": "Nexus \u2014 personal AI operations platform: agent shell, content/growth services, metering, matchmaking, and tool adapters. Post-internship integration of flagship and FlyRank systems.",
-      "url": "https://github.com/NivedhN160/Nexus",
-      "language": "Python",
-      "score": 98,
-      "last_updated": "2026-08-08T15:26:57Z",
-      "homepage": ""
-    },
-    {
       "name": "Hacknight-blr-elastic-aws",
       "description": "Civic Twin \u2014 agentic Bangalore digital assistant using AWS Bedrock, Elasticsearch, MCP tools, and family-delegation for civic complaints.",
       "url": "https://github.com/NivedhN160/Hacknight-blr-elastic-aws",
@@ -117,6 +108,24 @@
       "language": "HTML",
       "score": 75,
       "last_updated": "2026-06-21T15:51:00Z",
+      "homepage": ""
+    },
+    {
+      "name": "Realtime-stock-market-analyser",
+      "description": "",
+      "url": "https://github.com/NivedhN160/Realtime-stock-market-analyser",
+      "language": "Python",
+      "score": 75,
+      "last_updated": "2026-03-18T04:58:39Z",
+      "homepage": ""
+    },
+    {
+      "name": "Nexus",
+      "description": "Nexus \u2014 personal AI operations platform: agent shell, content/growth services, metering, matchmaking, and tool adapters. Post-internship integration of flagship and FlyRank systems.",
+      "url": "https://github.com/NivedhN160/Nexus",
+      "language": "Python",
+      "score": 72,
+      "last_updated": "2026-08-08T17:35:51Z",
       "homepage": ""
     },
     {
@@ -318,6 +327,15 @@
       "homepage": ""
     },
     {
+      "name": "Medial-report-reader",
+      "description": "",
+      "url": "https://github.com/NivedhN160/Medial-report-reader",
+      "language": "TypeScript",
+      "score": 0,
+      "last_updated": "2026-05-08T17:03:02Z",
+      "homepage": "https://medial-report-reader.vercel.app"
+    },
+    {
       "name": "Neon-cube-ThreeJS",
       "description": "",
       "url": "https://github.com/NivedhN160/Neon-cube-ThreeJS",
@@ -332,7 +350,7 @@
       "url": "https://github.com/NivedhN160/Portfolio",
       "language": "JavaScript",
       "score": 0,
-      "last_updated": "2026-08-08T16:32:25Z",
+      "last_updated": "2026-08-08T16:32:52Z",
       "homepage": ""
     },
     {
