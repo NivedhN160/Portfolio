@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T00:38:33.119258+00:00",
+  "generated_at": "2026-08-10T00:40:16.256906+00:00",
   "featured": "AI-Fluency-Capstone",
   "projects": [
     {
@@ -120,15 +120,6 @@
       "homepage": ""
     },
     {
-      "name": "Nexus",
-      "description": "Nexus \u2014 personal AI operations platform: agent shell, content/growth services, metering, matchmaking, and tool adapters. Post-internship integration of flagship and FlyRank systems.",
-      "url": "https://github.com/NivedhN160/Nexus",
-      "language": "Python",
-      "score": 72,
-      "last_updated": "2026-08-08T17:35:51Z",
-      "homepage": ""
-    },
-    {
       "name": "BuildwithAIchallenge4",
       "description": "Flow26 \u2014 FIFA 2026 stadium ops dashboard with multi-role UI, multilingual Groq AI, TTS/STT accessibility, and Vitest coverage.",
       "url": "https://github.com/NivedhN160/BuildwithAIchallenge4",
@@ -144,6 +135,15 @@
       "language": "Zig",
       "score": 70,
       "last_updated": "2026-03-08T16:20:28Z",
+      "homepage": ""
+    },
+    {
+      "name": "Nexus",
+      "description": "Nexus \u2014 personal AI operations platform: agent shell, content/growth services, metering, matchmaking, and tool adapters. Post-internship integration of flagship and FlyRank systems.",
+      "url": "https://github.com/NivedhN160/Nexus",
+      "language": "Python",
+      "score": 67,
+      "last_updated": "2026-08-09T08:44:18Z",
       "homepage": ""
     },
     {
@@ -192,21 +192,21 @@
       "homepage": ""
     },
     {
-      "name": "NivedhN160",
-      "description": "",
-      "url": "https://github.com/NivedhN160/NivedhN160",
-      "language": "Python",
-      "score": 20,
-      "last_updated": "2026-07-28T16:02:28Z",
-      "homepage": ""
-    },
-    {
       "name": "customer-accounts",
       "description": "",
       "url": "https://github.com/NivedhN160/customer-accounts",
       "language": "Python",
       "score": 10,
       "last_updated": "2026-07-28T17:40:54Z",
+      "homepage": ""
+    },
+    {
+      "name": "NivedhN160",
+      "description": "",
+      "url": "https://github.com/NivedhN160/NivedhN160",
+      "language": "Python",
+      "score": 10,
+      "last_updated": "2026-08-09T16:13:39Z",
       "homepage": ""
     },
     {
@@ -350,7 +350,7 @@
       "url": "https://github.com/NivedhN160/Portfolio",
       "language": "JavaScript",
       "score": 0,
-      "last_updated": "2026-08-08T16:32:52Z",
+      "last_updated": "2026-08-09T00:38:34Z",
       "homepage": ""
     },
     {
