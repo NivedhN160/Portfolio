@@ -1,7 +1,16 @@
 {
-  "generated_at": "2026-08-10T00:40:16.256906+00:00",
-  "featured": "AI-Fluency-Capstone",
+  "generated_at": "2026-08-11T00:40:21.328799+00:00",
+  "featured": "AetherOpt",
   "projects": [
+    {
+      "name": "AetherOpt",
+      "description": "Local quantum-inspired + classical optimization platform \u2014 portfolio, scheduling, VRP, Max-Cut, QUBO. FastAPI, SQLite, HiGHS & simulated annealing. Free, runs on a laptop.",
+      "url": "https://github.com/NivedhN160/AetherOpt",
+      "language": "Python",
+      "score": 100,
+      "last_updated": "2026-08-10T17:44:03Z",
+      "homepage": ""
+    },
     {
       "name": "AI-Fluency-Capstone",
       "description": "CodePulse \u2014 MCP-powered DevOps audit agent that checks secret isolation, runs test suites, inspects scraper politeness, and writes Markdown audit reports.",
@@ -139,7 +148,7 @@
     },
     {
       "name": "Nexus",
-      "description": "Nexus \u2014 personal AI operations platform: agent shell, content/growth services, metering, matchmaking, and tool adapters. Post-internship integration of flagship and FlyRank systems.",
+      "description": "Nexus \u2014 personal AI operations platform: agent shell, content/growth services, metering, matchmaking, and tool adapters.",
       "url": "https://github.com/NivedhN160/Nexus",
       "language": "Python",
       "score": 67,
@@ -350,7 +359,7 @@
       "url": "https://github.com/NivedhN160/Portfolio",
       "language": "JavaScript",
       "score": 0,
-      "last_updated": "2026-08-09T00:38:34Z",
+      "last_updated": "2026-08-10T00:40:17Z",
       "homepage": ""
     },
     {
