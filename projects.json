@@ -1,16 +1,7 @@
 {
-  "generated_at": "2026-08-11T00:40:21.328799+00:00",
-  "featured": "AetherOpt",
+  "generated_at": "2026-08-12T00:45:55.138640+00:00",
+  "featured": "AI-Fluency-Capstone",
   "projects": [
-    {
-      "name": "AetherOpt",
-      "description": "Local quantum-inspired + classical optimization platform \u2014 portfolio, scheduling, VRP, Max-Cut, QUBO. FastAPI, SQLite, HiGHS & simulated annealing. Free, runs on a laptop.",
-      "url": "https://github.com/NivedhN160/AetherOpt",
-      "language": "Python",
-      "score": 100,
-      "last_updated": "2026-08-10T17:44:03Z",
-      "homepage": ""
-    },
     {
       "name": "AI-Fluency-Capstone",
       "description": "CodePulse \u2014 MCP-powered DevOps audit agent that checks secret isolation, runs test suites, inspects scraper politeness, and writes Markdown audit reports.",
@@ -46,6 +37,15 @@
       "score": 100,
       "last_updated": "2026-08-06T15:03:06Z",
       "homepage": ""
+    },
+    {
+      "name": "Labmate",
+      "description": "Labmate \u2014 medical lab-report reader: upload PDFs, parse with pdf-parse + Groq, plain-language explanations. Next.js. Not medical advice.",
+      "url": "https://github.com/NivedhN160/Labmate",
+      "language": "TypeScript",
+      "score": 100,
+      "last_updated": "2026-08-11T16:45:35Z",
+      "homepage": "https://medial-report-reader.vercel.app"
     },
     {
       "name": "LLM-Usage-Metering-Billing-Service-Flyrank-Capstone",
@@ -108,6 +108,15 @@
       "language": "Python",
       "score": 88,
       "last_updated": "2026-08-05T16:30:25Z",
+      "homepage": ""
+    },
+    {
+      "name": "AetherOpt",
+      "description": "Local quantum-inspired + classical optimization platform \u2014 portfolio, scheduling, VRP, Max-Cut, QUBO. FastAPI, SQLite, HiGHS & simulated annealing. Free, runs on a laptop.",
+      "url": "https://github.com/NivedhN160/AetherOpt",
+      "language": "Python",
+      "score": 80,
+      "last_updated": "2026-08-11T16:17:00Z",
       "homepage": ""
     },
     {
@@ -336,15 +345,6 @@
       "homepage": ""
     },
     {
-      "name": "Medial-report-reader",
-      "description": "",
-      "url": "https://github.com/NivedhN160/Medial-report-reader",
-      "language": "TypeScript",
-      "score": 0,
-      "last_updated": "2026-05-08T17:03:02Z",
-      "homepage": "https://medial-report-reader.vercel.app"
-    },
-    {
       "name": "Neon-cube-ThreeJS",
       "description": "",
       "url": "https://github.com/NivedhN160/Neon-cube-ThreeJS",
@@ -359,7 +359,7 @@
       "url": "https://github.com/NivedhN160/Portfolio",
       "language": "JavaScript",
       "score": 0,
-      "last_updated": "2026-08-10T00:40:17Z",
+      "last_updated": "2026-08-11T00:40:22Z",
       "homepage": ""
     },
     {
