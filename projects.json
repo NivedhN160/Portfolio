@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T00:45:55.138640+00:00",
+  "generated_at": "2026-08-13T00:47:40.620367+00:00",
   "featured": "AI-Fluency-Capstone",
   "projects": [
     {
@@ -116,7 +116,16 @@
       "url": "https://github.com/NivedhN160/AetherOpt",
       "language": "Python",
       "score": 80,
-      "last_updated": "2026-08-11T16:17:00Z",
+      "last_updated": "2026-08-12T16:53:29Z",
+      "homepage": ""
+    },
+    {
+      "name": "PinnacleRAG-DS",
+      "description": "Production-style RAG + DS pipeline: hybrid retrieval (dense+BM25), cross-encoder rerank, Groq generation with citations, RAGAS metrics. Free tier only.",
+      "url": "https://github.com/NivedhN160/PinnacleRAG-DS",
+      "language": "Python",
+      "score": 80,
+      "last_updated": "2026-08-12T17:35:46Z",
       "homepage": ""
     },
     {
@@ -135,15 +144,6 @@
       "language": "Python",
       "score": 75,
       "last_updated": "2026-03-18T04:58:39Z",
-      "homepage": ""
-    },
-    {
-      "name": "BuildwithAIchallenge4",
-      "description": "Flow26 \u2014 FIFA 2026 stadium ops dashboard with multi-role UI, multilingual Groq AI, TTS/STT accessibility, and Vitest coverage.",
-      "url": "https://github.com/NivedhN160/BuildwithAIchallenge4",
-      "language": "TypeScript",
-      "score": 70,
-      "last_updated": "2026-07-13T14:41:37Z",
       "homepage": ""
     },
     {
@@ -180,6 +180,15 @@
       "language": "C++",
       "score": 63,
       "last_updated": "2025-06-18T15:49:04Z",
+      "homepage": ""
+    },
+    {
+      "name": "BuildwithAIchallenge4",
+      "description": "Flow26 \u2014 FIFA 2026 stadium ops dashboard with multi-role UI, multilingual Groq AI, TTS/STT accessibility, and Vitest coverage.",
+      "url": "https://github.com/NivedhN160/BuildwithAIchallenge4",
+      "language": "TypeScript",
+      "score": 60,
+      "last_updated": "2026-07-13T14:41:37Z",
       "homepage": ""
     },
     {
@@ -242,7 +251,7 @@
       "url": "https://github.com/NivedhN160/Advanced-Java-Lab-Programs",
       "language": "Java",
       "score": 0,
-      "last_updated": "2026-08-05T16:11:17Z",
+      "last_updated": "2026-08-12T17:09:51Z",
       "homepage": ""
     },
     {
@@ -251,7 +260,7 @@
       "url": "https://github.com/NivedhN160/Advanced-Python-Programs",
       "language": "Python",
       "score": 0,
-      "last_updated": "2026-08-06T13:02:56Z",
+      "last_updated": "2026-08-12T17:13:12Z",
       "homepage": ""
     },
     {
@@ -323,7 +332,7 @@
       "url": "https://github.com/NivedhN160/flyrank-internship",
       "language": "HTML",
       "score": 0,
-      "last_updated": "2026-08-07T16:48:00Z",
+      "last_updated": "2026-08-12T16:36:09Z",
       "homepage": ""
     },
     {
@@ -359,7 +368,7 @@
       "url": "https://github.com/NivedhN160/Portfolio",
       "language": "JavaScript",
       "score": 0,
-      "last_updated": "2026-08-11T00:40:22Z",
+      "last_updated": "2026-08-12T00:45:56Z",
       "homepage": ""
     },
     {
