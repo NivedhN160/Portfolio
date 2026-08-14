@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T00:47:40.620367+00:00",
+  "generated_at": "2026-08-14T00:46:26.726490+00:00",
   "featured": "AI-Fluency-Capstone",
   "projects": [
     {
@@ -125,7 +125,7 @@
       "url": "https://github.com/NivedhN160/PinnacleRAG-DS",
       "language": "Python",
       "score": 80,
-      "last_updated": "2026-08-12T17:35:46Z",
+      "last_updated": "2026-08-13T17:40:41Z",
       "homepage": ""
     },
     {
@@ -309,12 +309,21 @@
       "homepage": ""
     },
     {
+      "name": "CGV-Lab",
+      "description": "",
+      "url": "https://github.com/NivedhN160/CGV-Lab",
+      "language": "C++",
+      "score": 0,
+      "last_updated": "2026-08-13T10:06:33Z",
+      "homepage": ""
+    },
+    {
       "name": "Compiler-Construction",
       "description": "",
       "url": "https://github.com/NivedhN160/Compiler-Construction",
       "language": "C",
       "score": 0,
-      "last_updated": "2026-03-26T06:21:40Z",
+      "last_updated": "2026-08-13T15:04:24Z",
       "homepage": ""
     },
     {
@@ -368,7 +377,7 @@
       "url": "https://github.com/NivedhN160/Portfolio",
       "language": "JavaScript",
       "score": 0,
-      "last_updated": "2026-08-12T00:45:56Z",
+      "last_updated": "2026-08-13T00:47:41Z",
       "homepage": ""
     },
     {
