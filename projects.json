@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T00:46:26.726490+00:00",
+  "generated_at": "2026-08-15T00:26:29.192365+00:00",
   "featured": "AI-Fluency-Capstone",
   "projects": [
     {
@@ -196,7 +196,7 @@
       "description": "32-bit bare-metal OS written in C \u2014 paging, preemptive multitasking, ATA/FAT32 VFS, TCP/IP stack, PE & ELF loaders, and a Win32 compatibility layer.",
       "url": "https://github.com/NivedhN160/N-OS",
       "language": "C",
-      "score": 56,
+      "score": 46,
       "last_updated": "2026-07-15T15:39:32Z",
       "homepage": ""
     },
@@ -377,7 +377,7 @@
       "url": "https://github.com/NivedhN160/Portfolio",
       "language": "JavaScript",
       "score": 0,
-      "last_updated": "2026-08-13T00:47:41Z",
+      "last_updated": "2026-08-14T00:46:27Z",
       "homepage": ""
     },
     {
