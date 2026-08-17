@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T00:26:18.601838+00:00",
+  "generated_at": "2026-08-17T00:25:03.135154+00:00",
   "featured": "AI-Fluency-Capstone",
   "projects": [
     {
@@ -124,8 +124,8 @@
       "description": "Production-style RAG + DS pipeline: hybrid retrieval (dense+BM25), cross-encoder rerank, Groq generation with citations, RAGAS metrics. Free tier only.",
       "url": "https://github.com/NivedhN160/PinnacleRAG-DS",
       "language": "Python",
-      "score": 80,
-      "last_updated": "2026-08-13T17:40:41Z",
+      "score": 77,
+      "last_updated": "2026-08-16T13:25:06Z",
       "homepage": ""
     },
     {
@@ -377,7 +377,7 @@
       "url": "https://github.com/NivedhN160/Portfolio",
       "language": "JavaScript",
       "score": 0,
-      "last_updated": "2026-08-15T00:26:30Z",
+      "last_updated": "2026-08-16T00:26:19Z",
       "homepage": ""
     },
     {
