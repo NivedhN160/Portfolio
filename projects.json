@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T00:25:03.135154+00:00",
+  "generated_at": "2026-08-18T00:24:59.171867+00:00",
   "featured": "AI-Fluency-Capstone",
   "projects": [
     {
@@ -18,15 +18,6 @@
       "language": "Python",
       "score": 100,
       "last_updated": "2026-08-07T15:18:32Z",
-      "homepage": ""
-    },
-    {
-      "name": "Browser-Use-Hackathon",
-      "description": "Buying-signal scanner \u2014 turns Greenhouse/Lever job postings into ranked GTM intent scores via dual-path API + browser automation and Groq.",
-      "url": "https://github.com/NivedhN160/Browser-Use-Hackathon",
-      "language": "JavaScript",
-      "score": 100,
-      "last_updated": "2026-07-18T09:14:35Z",
       "homepage": ""
     },
     {
@@ -84,6 +75,15 @@
       "homepage": ""
     },
     {
+      "name": "Browser-Use-Hackathon",
+      "description": "Buying-signal scanner \u2014 turns Greenhouse/Lever job postings into ranked GTM intent scores via dual-path API + browser automation and Groq.",
+      "url": "https://github.com/NivedhN160/Browser-Use-Hackathon",
+      "language": "JavaScript",
+      "score": 90,
+      "last_updated": "2026-07-18T09:14:35Z",
+      "homepage": ""
+    },
+    {
       "name": "Terra-X",
       "description": "AI climate & socio-economic scenario lab \u2014 interactive 3D Earth, live weather grounding, and Groq Llama projections for any coordinate.",
       "url": "https://github.com/NivedhN160/Terra-X",
@@ -125,7 +125,7 @@
       "url": "https://github.com/NivedhN160/PinnacleRAG-DS",
       "language": "Python",
       "score": 77,
-      "last_updated": "2026-08-16T13:25:06Z",
+      "last_updated": "2026-08-17T16:20:16Z",
       "homepage": ""
     },
     {
@@ -341,7 +341,7 @@
       "url": "https://github.com/NivedhN160/flyrank-internship",
       "language": "HTML",
       "score": 0,
-      "last_updated": "2026-08-12T16:36:09Z",
+      "last_updated": "2026-08-17T17:47:14Z",
       "homepage": ""
     },
     {
@@ -377,7 +377,7 @@
       "url": "https://github.com/NivedhN160/Portfolio",
       "language": "JavaScript",
       "score": 0,
-      "last_updated": "2026-08-16T00:26:19Z",
+      "last_updated": "2026-08-17T00:25:04Z",
       "homepage": ""
     },
     {
