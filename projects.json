@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T00:24:59.171867+00:00",
+  "generated_at": "2026-08-19T00:24:46.130872+00:00",
   "featured": "AI-Fluency-Capstone",
   "projects": [
     {
@@ -260,7 +260,7 @@
       "url": "https://github.com/NivedhN160/Advanced-Python-Programs",
       "language": "Python",
       "score": 0,
-      "last_updated": "2026-08-12T17:13:12Z",
+      "last_updated": "2026-08-18T13:45:09Z",
       "homepage": ""
     },
     {
@@ -327,6 +327,15 @@
       "homepage": ""
     },
     {
+      "name": "DS-Lab",
+      "description": "",
+      "url": "https://github.com/NivedhN160/DS-Lab",
+      "language": "Python",
+      "score": 0,
+      "last_updated": "2026-08-18T07:37:04Z",
+      "homepage": ""
+    },
+    {
       "name": "e-commerce-card",
       "description": "",
       "url": "https://github.com/NivedhN160/e-commerce-card",
@@ -377,7 +386,7 @@
       "url": "https://github.com/NivedhN160/Portfolio",
       "language": "JavaScript",
       "score": 0,
-      "last_updated": "2026-08-17T00:25:04Z",
+      "last_updated": "2026-08-18T00:25:00Z",
       "homepage": ""
     },
     {
