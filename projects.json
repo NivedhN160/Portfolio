@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T00:25:01.620251+00:00",
+  "generated_at": "2026-08-23T00:27:21.066633+00:00",
   "featured": "AI-Fluency-Capstone",
   "projects": [
     {
@@ -63,6 +63,15 @@
       "language": "Python",
       "score": 100,
       "last_updated": "2026-08-03T14:31:09Z",
+      "homepage": ""
+    },
+    {
+      "name": "Growth-Hackathon",
+      "description": "DemoForge \u2014 unattended agent that turns any URL into a publish-ready Launch Kit",
+      "url": "https://github.com/NivedhN160/Growth-Hackathon",
+      "language": "Python",
+      "score": 95,
+      "last_updated": "2026-08-22T08:24:45Z",
       "homepage": ""
     },
     {
@@ -386,7 +395,7 @@
       "url": "https://github.com/NivedhN160/Portfolio",
       "language": "JavaScript",
       "score": 0,
-      "last_updated": "2026-08-21T00:27:45Z",
+      "last_updated": "2026-08-22T00:25:02Z",
       "homepage": ""
     },
     {
