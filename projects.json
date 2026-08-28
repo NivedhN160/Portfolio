@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T05:09:55.534781+00:00",
+  "generated_at": "2026-08-28T07:08:48.854668+00:00",
   "featured": "AI-Fluency-Capstone",
   "projects": [
     {
@@ -35,7 +35,7 @@
       "url": "https://github.com/NivedhN160/Labmate",
       "language": "TypeScript",
       "score": 100,
-      "last_updated": "2026-08-24T18:35:44Z",
+      "last_updated": "2026-08-27T15:59:30Z",
       "homepage": "https://medial-report-reader.vercel.app"
     },
     {
@@ -63,6 +63,15 @@
       "language": "Python",
       "score": 100,
       "last_updated": "2026-08-03T14:31:09Z",
+      "homepage": ""
+    },
+    {
+      "name": "Vespera",
+      "description": "Vespera: A fully offline, high-end single-player experience with a living AI Mastermind that learns, adapts, and evolves against you. Built in Godot 4.",
+      "url": "https://github.com/NivedhN160/Vespera",
+      "language": "GDScript",
+      "score": 100,
+      "last_updated": "2026-08-27T16:51:18Z",
       "homepage": ""
     },
     {
@@ -228,15 +237,6 @@
       "homepage": ""
     },
     {
-      "name": "customer-accounts",
-      "description": "",
-      "url": "https://github.com/NivedhN160/customer-accounts",
-      "language": "Python",
-      "score": 10,
-      "last_updated": "2026-07-28T17:40:54Z",
-      "homepage": ""
-    },
-    {
       "name": "NivedhN160",
       "description": "",
       "url": "https://github.com/NivedhN160/NivedhN160",
@@ -269,7 +269,7 @@
       "url": "https://github.com/NivedhN160/Advanced-Python-Programs",
       "language": "Python",
       "score": 0,
-      "last_updated": "2026-08-20T15:28:55Z",
+      "last_updated": "2026-08-27T15:29:12Z",
       "homepage": ""
     },
     {
@@ -336,6 +336,15 @@
       "homepage": ""
     },
     {
+      "name": "customer-accounts",
+      "description": "",
+      "url": "https://github.com/NivedhN160/customer-accounts",
+      "language": "Python",
+      "score": 0,
+      "last_updated": "2026-07-28T17:40:54Z",
+      "homepage": ""
+    },
+    {
       "name": "DS-Lab",
       "description": "",
       "url": "https://github.com/NivedhN160/DS-Lab",
@@ -395,7 +404,7 @@
       "url": "https://github.com/NivedhN160/Portfolio",
       "language": "JavaScript",
       "score": 0,
-      "last_updated": "2026-08-26T00:27:10Z",
+      "last_updated": "2026-08-27T05:09:56Z",
       "homepage": ""
     },
     {
