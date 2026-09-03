@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T01:29:39.994716+00:00",
+  "generated_at": "2026-09-03T01:33:19.434758+00:00",
   "featured": "AI-Fluency-Capstone",
   "projects": [
     {
@@ -57,15 +57,6 @@
       "homepage": ""
     },
     {
-      "name": "N.E.O.S",
-      "description": "Autonomous AI orchestrator with 3D holographic UI, seamless VAD voice interface, persistent memory, and lightning-fast Groq API tool execution.",
-      "url": "https://github.com/NivedhN160/N.E.O.S",
-      "language": "Python",
-      "score": 100,
-      "last_updated": "2026-08-03T14:31:09Z",
-      "homepage": ""
-    },
-    {
       "name": "Vespera",
       "description": "Vespera: A fully offline, high-end single-player experience with a living AI Mastermind that learns, adapts, and evolves against you. Built in Godot 4.",
       "url": "https://github.com/NivedhN160/Vespera",
@@ -99,6 +90,15 @@
       "language": "JavaScript",
       "score": 90,
       "last_updated": "2026-07-18T09:14:35Z",
+      "homepage": ""
+    },
+    {
+      "name": "N.E.O.S",
+      "description": "Autonomous AI orchestrator with 3D holographic UI, seamless VAD voice interface, persistent memory, and lightning-fast Groq API tool execution.",
+      "url": "https://github.com/NivedhN160/N.E.O.S",
+      "language": "Python",
+      "score": 90,
+      "last_updated": "2026-08-03T14:31:09Z",
       "homepage": ""
     },
     {
@@ -404,7 +404,7 @@
       "url": "https://github.com/NivedhN160/Portfolio",
       "language": "JavaScript",
       "score": 0,
-      "last_updated": "2026-09-01T02:06:53Z",
+      "last_updated": "2026-09-02T01:29:41Z",
       "homepage": ""
     },
     {
