@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T01:26:57.685157+00:00",
+  "generated_at": "2026-09-05T01:28:44.595363+00:00",
   "featured": "AI-Fluency-Capstone",
   "projects": [
     {
@@ -75,15 +75,6 @@
       "homepage": ""
     },
     {
-      "name": "Hacknight-blr-elastic-aws",
-      "description": "Civic Twin \u2014 agentic Bangalore digital assistant using AWS Bedrock, Elasticsearch, MCP tools, and family-delegation for civic complaints.",
-      "url": "https://github.com/NivedhN160/Hacknight-blr-elastic-aws",
-      "language": "JavaScript",
-      "score": 91,
-      "last_updated": "2026-08-05T16:30:42Z",
-      "homepage": ""
-    },
-    {
       "name": "Browser-Use-Hackathon",
       "description": "Buying-signal scanner \u2014 turns Greenhouse/Lever job postings into ranked GTM intent scores via dual-path API + browser automation and Groq.",
       "url": "https://github.com/NivedhN160/Browser-Use-Hackathon",
@@ -120,12 +111,12 @@
       "homepage": ""
     },
     {
-      "name": "Emotion-Aware-Code-Debugging-Assistant",
-      "description": "Real-time computer vision system that monitors facial cues, blink rate, head pose, and emotion to estimate developer frustration and trigger debugging interventions.",
-      "url": "https://github.com/NivedhN160/Emotion-Aware-Code-Debugging-Assistant",
-      "language": "Python",
-      "score": 88,
-      "last_updated": "2026-08-05T16:30:25Z",
+      "name": "Hacknight-blr-elastic-aws",
+      "description": "Civic Twin \u2014 agentic Bangalore digital assistant using AWS Bedrock, Elasticsearch, MCP tools, and family-delegation for civic complaints.",
+      "url": "https://github.com/NivedhN160/Hacknight-blr-elastic-aws",
+      "language": "JavaScript",
+      "score": 81,
+      "last_updated": "2026-08-05T16:30:42Z",
       "homepage": ""
     },
     {
@@ -135,6 +126,15 @@
       "language": "Python",
       "score": 80,
       "last_updated": "2026-08-12T16:53:29Z",
+      "homepage": ""
+    },
+    {
+      "name": "Emotion-Aware-Code-Debugging-Assistant",
+      "description": "Real-time computer vision system that monitors facial cues, blink rate, head pose, and emotion to estimate developer frustration and trigger debugging interventions.",
+      "url": "https://github.com/NivedhN160/Emotion-Aware-Code-Debugging-Assistant",
+      "language": "Python",
+      "score": 78,
+      "last_updated": "2026-08-05T16:30:25Z",
       "homepage": ""
     },
     {
@@ -404,7 +404,7 @@
       "url": "https://github.com/NivedhN160/Portfolio",
       "language": "JavaScript",
       "score": 0,
-      "last_updated": "2026-09-03T01:33:20Z",
+      "last_updated": "2026-09-04T01:26:58Z",
       "homepage": ""
     },
     {
