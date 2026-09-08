@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T01:30:46.946490+00:00",
+  "generated_at": "2026-09-08T12:51:28.127954+00:00",
   "featured": "AI-Fluency-Capstone",
   "projects": [
     {
@@ -174,15 +174,6 @@
       "homepage": ""
     },
     {
-      "name": "Nexus",
-      "description": "Nexus \u2014 personal AI operations platform: agent shell, content/growth services, metering, matchmaking, and tool adapters.",
-      "url": "https://github.com/NivedhN160/Nexus",
-      "language": "Python",
-      "score": 67,
-      "last_updated": "2026-08-09T08:44:18Z",
-      "homepage": ""
-    },
-    {
       "name": "Helicopter-Game-Using-ALLEGRO-5",
       "description": "",
       "url": "https://github.com/NivedhN160/Helicopter-Game-Using-ALLEGRO-5",
@@ -207,6 +198,15 @@
       "language": "TypeScript",
       "score": 60,
       "last_updated": "2026-07-13T14:41:37Z",
+      "homepage": ""
+    },
+    {
+      "name": "Nexus",
+      "description": "Nexus \u2014 personal AI operations platform: agent shell, content/growth services, metering, matchmaking, and tool adapters.",
+      "url": "https://github.com/NivedhN160/Nexus",
+      "language": "Python",
+      "score": 57,
+      "last_updated": "2026-08-09T08:44:18Z",
       "homepage": ""
     },
     {
@@ -404,7 +404,7 @@
       "url": "https://github.com/NivedhN160/Portfolio",
       "language": "JavaScript",
       "score": 0,
-      "last_updated": "2026-09-07T01:21:27Z",
+      "last_updated": "2026-09-08T12:51:01Z",
       "homepage": ""
     },
     {
