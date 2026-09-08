@@ -111,32 +111,35 @@ function openWindow(id, titleOverride, contentOverride) {
         } else if (id === 'resume') {
             contentArea.innerHTML = `<div class="content-inner" style="font-family: Arial, sans-serif; line-height: 1.4;">
                 <h1 style="margin: 0 0 5px 0; font-size: 20px;">NIVEDH SUNIL</h1>
-                <p style="margin: 0 0 15px 0; font-size: 12px; color: #555;">Backend AI Engineer | Full-Stack Developer | Systems Builder<br>
+                <p style="margin: 0 0 15px 0; font-size: 12px; color: #555;">Backend AI Engineer | Backend Engineer<br>
                 <a href="mailto:nivedhn160@gmail.com">nivedhn160@gmail.com</a> | <a href="https://github.com/NivedhN160" target="_blank">github.com/NivedhN160</a> | <a href="https://linkedin.com/in/nivedhn160" target="_blank">LinkedIn</a></p>
                 
                 <h3 style="border-bottom: 1px solid #ccc; padding-bottom: 2px; margin-bottom: 5px;">PROFESSIONAL SUMMARY</h3>
-                <p style="font-size: 11px;">Third-year CSE student and Backend AI Engineering Intern at FlyRank AI. Built production agentic backends (FastAPI + LLMs), a bare-metal OS in C, and a full transformer from scratch in Zig. Seeking full-time roles in Backend and AI Engineering.</p>
+                <p style="font-size: 11px;">Backend AI Engineer with production experience building agentic systems in Python and FastAPI. Built a 32-bit bare-metal operating system in C and a Transformer from scratch in Zig. Currently Backend AI Engineering Intern at FlyRank AI. Seeking Backend AI Engineer and Backend Engineer roles.</p>
                 
                 <h3 style="border-bottom: 1px solid #ccc; padding-bottom: 2px; margin-bottom: 5px;">EXPERIENCE</h3>
-                <p style="font-size: 11px; margin: 2px 0;"><strong>Backend AI Engineering Intern</strong> — FlyRank AI (2026 - Present)</p>
+                <p style="font-size: 11px; margin: 2px 0;"><strong>Backend AI Engineering Intern</strong> — FlyRank AI (Jul 2026 - Sep 2026)</p>
                 <ul style="font-size: 11px; padding-left: 20px; margin-top: 5px; margin-bottom: 10px;">
-                    <li>Shipped agentic AI backend systems to production in Python and FastAPI, integrating LLM reasoning into internal tooling.</li>
-                    <li>Designed and built REST APIs and backend infrastructure end-to-end for cohort-based capstone deliverables.</li>
+                    <li>Owned and delivered 4+ production agentic backend services in Python/FastAPI used by the AI Engineering cohort.</li>
+                    <li>Designed and implemented REST APIs, authentication, job queues, and LLM tool-calling pipelines end-to-end.</li>
+                    <li>Built backend infrastructure for multi-tenant widgets, metering, webhooks and rate limiting supporting concurrent cohort projects.</li>
                 </ul>
                 
                 <h3 style="border-bottom: 1px solid #ccc; padding-bottom: 2px; margin-bottom: 5px;">FEATURED PROJECTS</h3>
                 <ul style="font-size: 11px; padding-left: 20px; margin-top: 5px;">
-                    <li><strong>N-OS (Bare-Metal OS):</strong> Built a 32-bit OS from scratch in C with PE/ELF loaders and a hand-rolled TCP/IP stack.</li>
-                    <li><strong>N.E.O.S (AI Orchestrator):</strong> Built an autonomous AI orchestrator with real-time VAD and agentic tool-calling on Groq Llama 3.3.</li>
-                    <li><strong>ZigNGPT v2 (Transformer from Scratch):</strong> Hand-wrote attention and backpropagation at the matrix level in Zig without ML frameworks.</li>
-                    <li><strong>MAT-CHA.AI:</strong> Architected a serverless AWS pipeline for an AI matchmaking platform and extended it with an MCP tool server.</li>
+                    <li><strong>N-OS (Bare-Metal OS):</strong> Built a 32-bit OS from scratch in C with virtual memory, TCP/IP stack, and PE/ELF binary loaders.</li>
+                    <li><strong>Nexus (AI Platform):</strong> Unified self-hosted AI platform for agent execution, content generation, and lead capture in Docker.</li>
+                    <li><strong>PinnacleRAG-DS (Hybrid RAG):</strong> Production hybrid RAG pipeline with dense+BM25 retrieval, cross-encoder reranking, and citation-enforced generation.</li>
+                    <li><strong>ZigNGPT v2 (Transformer from Scratch):</strong> Complete offline AI assistant with custom autograd engine and Transformer architecture in pure Zig.</li>
+                    <li><strong>LabMate (Live Product):</strong> Next.js + LLaMA 3 powered tool that extracts key metrics from medical PDFs and explains them in plain English.</li>
                 </ul>
 
                 <h3 style="border-bottom: 1px solid #ccc; padding-bottom: 2px; margin-bottom: 5px;">TECHNICAL SKILLS</h3>
-                <p style="font-size: 11px;"><strong>Languages:</strong> Python, JavaScript/Node.js, C, C++, Zig, Go, SQL<br>
-                <strong>AI / ML:</strong> LLaMA 2/3, Groq, OpenCV, MediaPipe, PyTorch, Hugging Face, RAG, Agentic AI, MCP<br>
-                <strong>Web & Backend:</strong> FastAPI, React, Flask, Django REST, Node.js, REST APIs<br>
-                <strong>Cloud & Databases:</strong> AWS (Lambda, S3, DynamoDB, Bedrock), PostgreSQL, Git, CI/CD</p>
+                <p style="font-size: 11px;"><strong>Languages:</strong> Python, C, Zig, TypeScript, JavaScript, Java, C++, SQL, NoSQL<br>
+                <strong>Backend:</strong> FastAPI, REST APIs, Docker, PostgreSQL, Redis, SQLite, Caching, Microservices<br>
+                <strong>AI / Agents:</strong> Agentic AI, Hybrid RAG, Tool-calling, Groq, MCP, Local LLMs<br>
+                <strong>Systems:</strong> Bare-metal OS Development, Virtual Memory, TCP/IP Stack, PE & ELF Loaders<br>
+                <strong>Cloud & Tools:</strong> AWS (Bedrock, Lambda, DynamoDB, S3), Next.js, Git, Pytest, CI/CD, OAuth</p>
             </div>`;
         } else if (id === 'my-computer') {
             contentArea.innerHTML = `<div class="content-inner"><p>Local Disk (C:)</p><p>Total Size: 500GB</p></div>`;
