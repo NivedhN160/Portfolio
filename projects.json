@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T00:25:43.826473+00:00",
+  "generated_at": "2026-09-08T01:30:46.946490+00:00",
   "featured": "AI-Fluency-Capstone",
   "projects": [
     {
@@ -8,7 +8,7 @@
       "url": "https://github.com/NivedhN160/AI-Fluency-Capstone",
       "language": "HTML",
       "score": 100,
-      "last_updated": "2026-08-19T16:25:23Z",
+      "last_updated": "2026-08-28T17:10:15Z",
       "homepage": ""
     },
     {
@@ -17,7 +17,7 @@
       "url": "https://github.com/NivedhN160/AI-Image-Understanding-Content-Matching-Engine-Flyrank-Capstone",
       "language": "Python",
       "score": 100,
-      "last_updated": "2026-08-19T16:23:20Z",
+      "last_updated": "2026-08-28T14:53:26Z",
       "homepage": ""
     },
     {
@@ -26,7 +26,7 @@
       "url": "https://github.com/NivedhN160/Flyrank-Backend-AI-Engineering-Capstone",
       "language": "Python",
       "score": 100,
-      "last_updated": "2026-08-19T16:22:41Z",
+      "last_updated": "2026-08-28T14:52:45Z",
       "homepage": ""
     },
     {
@@ -35,7 +35,7 @@
       "url": "https://github.com/NivedhN160/Labmate",
       "language": "TypeScript",
       "score": 100,
-      "last_updated": "2026-08-11T16:45:35Z",
+      "last_updated": "2026-08-27T15:59:30Z",
       "homepage": "https://medial-report-reader.vercel.app"
     },
     {
@@ -44,7 +44,7 @@
       "url": "https://github.com/NivedhN160/LLM-Usage-Metering-Billing-Service-Flyrank-Capstone",
       "language": "Python",
       "score": 100,
-      "last_updated": "2026-08-19T16:24:26Z",
+      "last_updated": "2026-08-28T17:16:14Z",
       "homepage": ""
     },
     {
@@ -53,25 +53,25 @@
       "url": "https://github.com/NivedhN160/Multi-Platform-Social-Campaign-Publisher-Flyrank-Capstone",
       "language": "Python",
       "score": 100,
-      "last_updated": "2026-08-19T16:24:45Z",
+      "last_updated": "2026-08-28T17:09:15Z",
       "homepage": ""
     },
     {
-      "name": "N.E.O.S",
-      "description": "Autonomous AI orchestrator with 3D holographic UI, seamless VAD voice interface, persistent memory, and lightning-fast Groq API tool execution.",
-      "url": "https://github.com/NivedhN160/N.E.O.S",
-      "language": "Python",
+      "name": "Vespera",
+      "description": "Vespera: A fully offline, high-end single-player experience with a living AI Mastermind that learns, adapts, and evolves against you. Built in Godot 4.",
+      "url": "https://github.com/NivedhN160/Vespera",
+      "language": "GDScript",
       "score": 100,
-      "last_updated": "2026-08-03T14:31:09Z",
+      "last_updated": "2026-08-27T16:51:18Z",
       "homepage": ""
     },
     {
-      "name": "Hacknight-blr-elastic-aws",
-      "description": "Civic Twin \u2014 agentic Bangalore digital assistant using AWS Bedrock, Elasticsearch, MCP tools, and family-delegation for civic complaints.",
-      "url": "https://github.com/NivedhN160/Hacknight-blr-elastic-aws",
-      "language": "JavaScript",
-      "score": 91,
-      "last_updated": "2026-08-05T16:30:42Z",
+      "name": "Growth-Hackathon",
+      "description": "DemoForge \u2014 unattended agent that turns any URL into a publish-ready Launch Kit",
+      "url": "https://github.com/NivedhN160/Growth-Hackathon",
+      "language": "Python",
+      "score": 95,
+      "last_updated": "2026-08-22T08:24:45Z",
       "homepage": ""
     },
     {
@@ -81,6 +81,15 @@
       "language": "JavaScript",
       "score": 90,
       "last_updated": "2026-07-18T09:14:35Z",
+      "homepage": ""
+    },
+    {
+      "name": "N.E.O.S",
+      "description": "Autonomous AI orchestrator with 3D holographic UI, seamless VAD voice interface, persistent memory, and lightning-fast Groq API tool execution.",
+      "url": "https://github.com/NivedhN160/N.E.O.S",
+      "language": "Python",
+      "score": 90,
+      "last_updated": "2026-08-03T14:31:09Z",
       "homepage": ""
     },
     {
@@ -102,12 +111,12 @@
       "homepage": ""
     },
     {
-      "name": "Emotion-Aware-Code-Debugging-Assistant",
-      "description": "Real-time computer vision system that monitors facial cues, blink rate, head pose, and emotion to estimate developer frustration and trigger debugging interventions.",
-      "url": "https://github.com/NivedhN160/Emotion-Aware-Code-Debugging-Assistant",
-      "language": "Python",
-      "score": 88,
-      "last_updated": "2026-08-05T16:30:25Z",
+      "name": "Hacknight-blr-elastic-aws",
+      "description": "Civic Twin \u2014 agentic Bangalore digital assistant using AWS Bedrock, Elasticsearch, MCP tools, and family-delegation for civic complaints.",
+      "url": "https://github.com/NivedhN160/Hacknight-blr-elastic-aws",
+      "language": "JavaScript",
+      "score": 81,
+      "last_updated": "2026-08-05T16:30:42Z",
       "homepage": ""
     },
     {
@@ -117,6 +126,15 @@
       "language": "Python",
       "score": 80,
       "last_updated": "2026-08-12T16:53:29Z",
+      "homepage": ""
+    },
+    {
+      "name": "Emotion-Aware-Code-Debugging-Assistant",
+      "description": "Real-time computer vision system that monitors facial cues, blink rate, head pose, and emotion to estimate developer frustration and trigger debugging interventions.",
+      "url": "https://github.com/NivedhN160/Emotion-Aware-Code-Debugging-Assistant",
+      "language": "Python",
+      "score": 78,
+      "last_updated": "2026-08-05T16:30:25Z",
       "homepage": ""
     },
     {
@@ -219,15 +237,6 @@
       "homepage": ""
     },
     {
-      "name": "customer-accounts",
-      "description": "",
-      "url": "https://github.com/NivedhN160/customer-accounts",
-      "language": "Python",
-      "score": 10,
-      "last_updated": "2026-07-28T17:40:54Z",
-      "homepage": ""
-    },
-    {
       "name": "NivedhN160",
       "description": "",
       "url": "https://github.com/NivedhN160/NivedhN160",
@@ -251,7 +260,7 @@
       "url": "https://github.com/NivedhN160/Advanced-Java-Lab-Programs",
       "language": "Java",
       "score": 0,
-      "last_updated": "2026-08-12T17:09:51Z",
+      "last_updated": "2026-08-20T15:29:36Z",
       "homepage": ""
     },
     {
@@ -260,7 +269,7 @@
       "url": "https://github.com/NivedhN160/Advanced-Python-Programs",
       "language": "Python",
       "score": 0,
-      "last_updated": "2026-08-18T13:45:09Z",
+      "last_updated": "2026-08-27T15:29:12Z",
       "homepage": ""
     },
     {
@@ -327,6 +336,15 @@
       "homepage": ""
     },
     {
+      "name": "customer-accounts",
+      "description": "",
+      "url": "https://github.com/NivedhN160/customer-accounts",
+      "language": "Python",
+      "score": 0,
+      "last_updated": "2026-07-28T17:40:54Z",
+      "homepage": ""
+    },
+    {
       "name": "DS-Lab",
       "description": "",
       "url": "https://github.com/NivedhN160/DS-Lab",
@@ -350,7 +368,7 @@
       "url": "https://github.com/NivedhN160/flyrank-internship",
       "language": "HTML",
       "score": 0,
-      "last_updated": "2026-08-19T16:30:10Z",
+      "last_updated": "2026-08-28T17:14:12Z",
       "homepage": ""
     },
     {
@@ -386,7 +404,7 @@
       "url": "https://github.com/NivedhN160/Portfolio",
       "language": "JavaScript",
       "score": 0,
-      "last_updated": "2026-08-19T00:24:47Z",
+      "last_updated": "2026-09-07T01:21:27Z",
       "homepage": ""
     },
     {
