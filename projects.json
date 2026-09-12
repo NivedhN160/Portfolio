@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T01:32:54.461814+00:00",
+  "generated_at": "2026-09-12T01:38:44.671533+00:00",
   "featured": "AI-Fluency-Capstone",
   "projects": [
     {
@@ -120,15 +120,6 @@
       "homepage": ""
     },
     {
-      "name": "AetherOpt",
-      "description": "Local quantum-inspired + classical optimization platform \u2014 portfolio, scheduling, VRP, Max-Cut, QUBO. FastAPI, SQLite, HiGHS & simulated annealing. Free, runs on a laptop.",
-      "url": "https://github.com/NivedhN160/AetherOpt",
-      "language": "Python",
-      "score": 80,
-      "last_updated": "2026-08-12T16:53:29Z",
-      "homepage": ""
-    },
-    {
       "name": "Emotion-Aware-Code-Debugging-Assistant",
       "description": "Real-time computer vision system that monitors facial cues, blink rate, head pose, and emotion to estimate developer frustration and trigger debugging interventions.",
       "url": "https://github.com/NivedhN160/Emotion-Aware-Code-Debugging-Assistant",
@@ -162,6 +153,15 @@
       "language": "Python",
       "score": 75,
       "last_updated": "2026-03-18T04:58:39Z",
+      "homepage": ""
+    },
+    {
+      "name": "AetherOpt",
+      "description": "Local quantum-inspired + classical optimization platform \u2014 portfolio, scheduling, VRP, Max-Cut, QUBO. FastAPI, SQLite, HiGHS & simulated annealing. Free, runs on a laptop.",
+      "url": "https://github.com/NivedhN160/AetherOpt",
+      "language": "Python",
+      "score": 70,
+      "last_updated": "2026-08-12T16:53:29Z",
       "homepage": ""
     },
     {
@@ -404,7 +404,7 @@
       "url": "https://github.com/NivedhN160/Portfolio",
       "language": "JavaScript",
       "score": 0,
-      "last_updated": "2026-09-10T01:33:21Z",
+      "last_updated": "2026-09-11T01:32:55Z",
       "homepage": ""
     },
     {
