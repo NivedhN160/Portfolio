@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T01:47:30.476257+00:00",
+  "generated_at": "2026-09-17T01:51:14.271433+00:00",
   "featured": "AI-Fluency-Capstone",
   "projects": [
     {
@@ -129,15 +129,6 @@
       "homepage": ""
     },
     {
-      "name": "PinnacleRAG-DS",
-      "description": "Production-style RAG + DS pipeline: hybrid retrieval (dense+BM25), cross-encoder rerank, Groq generation with citations, RAGAS metrics. Free tier only.",
-      "url": "https://github.com/NivedhN160/PinnacleRAG-DS",
-      "language": "Python",
-      "score": 77,
-      "last_updated": "2026-08-17T16:20:16Z",
-      "homepage": ""
-    },
-    {
       "name": "promptwars",
       "description": "",
       "url": "https://github.com/NivedhN160/promptwars",
@@ -171,6 +162,15 @@
       "language": "Zig",
       "score": 70,
       "last_updated": "2026-03-08T16:20:28Z",
+      "homepage": ""
+    },
+    {
+      "name": "PinnacleRAG-DS",
+      "description": "Production-style RAG + DS pipeline: hybrid retrieval (dense+BM25), cross-encoder rerank, Groq generation with citations, RAGAS metrics. Free tier only.",
+      "url": "https://github.com/NivedhN160/PinnacleRAG-DS",
+      "language": "Python",
+      "score": 67,
+      "last_updated": "2026-08-17T16:20:16Z",
       "homepage": ""
     },
     {
@@ -251,7 +251,7 @@
       "url": "https://github.com/NivedhN160/Advanced-Java-Lab-Programs",
       "language": "Java",
       "score": 0,
-      "last_updated": "2026-08-20T15:29:36Z",
+      "last_updated": "2026-09-16T13:23:56Z",
       "homepage": ""
     },
     {
@@ -260,7 +260,7 @@
       "url": "https://github.com/NivedhN160/Advanced-Python-Programs",
       "language": "Python",
       "score": 0,
-      "last_updated": "2026-08-27T15:29:12Z",
+      "last_updated": "2026-09-16T13:24:22Z",
       "homepage": ""
     },
     {
@@ -278,7 +278,7 @@
       "url": "https://github.com/NivedhN160/AIML-Lab",
       "language": "Python",
       "score": 0,
-      "last_updated": "2026-08-05T15:47:43Z",
+      "last_updated": "2026-09-16T09:05:12Z",
       "homepage": ""
     },
     {
@@ -404,7 +404,7 @@
       "url": "https://github.com/NivedhN160/Portfolio",
       "language": "JavaScript",
       "score": 0,
-      "last_updated": "2026-09-15T01:56:59Z",
+      "last_updated": "2026-09-16T01:47:31Z",
       "homepage": ""
     },
     {
