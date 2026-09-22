@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T01:46:24.758889+00:00",
+  "generated_at": "2026-09-22T01:57:04.177483+00:00",
   "featured": "AI-Fluency-Capstone",
   "projects": [
     {
@@ -66,15 +66,6 @@
       "homepage": ""
     },
     {
-      "name": "Growth-Hackathon",
-      "description": "DemoForge \u2014 unattended agent that turns any URL into a publish-ready Launch Kit",
-      "url": "https://github.com/NivedhN160/Growth-Hackathon",
-      "language": "Python",
-      "score": 95,
-      "last_updated": "2026-08-22T08:24:45Z",
-      "homepage": ""
-    },
-    {
       "name": "Browser-Use-Hackathon",
       "description": "Buying-signal scanner \u2014 turns Greenhouse/Lever job postings into ranked GTM intent scores via dual-path API + browser automation and Groq.",
       "url": "https://github.com/NivedhN160/Browser-Use-Hackathon",
@@ -108,6 +99,15 @@
       "language": "Zig",
       "score": 90,
       "last_updated": "2026-06-24T16:30:00Z",
+      "homepage": ""
+    },
+    {
+      "name": "Growth-Hackathon",
+      "description": "DemoForge \u2014 unattended agent that turns any URL into a publish-ready Launch Kit",
+      "url": "https://github.com/NivedhN160/Growth-Hackathon",
+      "language": "Python",
+      "score": 85,
+      "last_updated": "2026-08-22T08:24:45Z",
       "homepage": ""
     },
     {
@@ -404,7 +404,7 @@
       "url": "https://github.com/NivedhN160/Portfolio",
       "language": "JavaScript",
       "score": 0,
-      "last_updated": "2026-09-20T01:44:56Z",
+      "last_updated": "2026-09-21T01:46:25Z",
       "homepage": ""
     },
     {
