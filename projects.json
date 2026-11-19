@@ -1,7 +1,16 @@
 {
-  "generated_at": "2026-11-18T04:45:51.653077+00:00",
-  "featured": "AI-Fluency-Capstone",
+  "generated_at": "2026-11-19T04:36:11.391134+00:00",
+  "featured": "Kairos",
   "projects": [
+    {
+      "name": "Kairos",
+      "description": "",
+      "url": "https://github.com/NivedhN160/Kairos",
+      "language": "Python",
+      "score": 100,
+      "last_updated": "2026-11-18T17:07:24Z",
+      "homepage": ""
+    },
     {
       "name": "AI-Fluency-Capstone",
       "description": "CodePulse \u2014 MCP-powered DevOps audit agent that checks secret isolation, runs test suites, inspects scraper politeness, and writes Markdown audit reports.",
@@ -260,7 +269,7 @@
       "url": "https://github.com/NivedhN160/Advanced-Python-Programs",
       "language": "Python",
       "score": 0,
-      "last_updated": "2026-09-28T17:47:46Z",
+      "last_updated": "2026-11-18T15:30:20Z",
       "homepage": ""
     },
     {
@@ -404,7 +413,7 @@
       "url": "https://github.com/NivedhN160/Portfolio",
       "language": "JavaScript",
       "score": 0,
-      "last_updated": "2026-11-17T05:17:15Z",
+      "last_updated": "2026-11-18T04:45:52Z",
       "homepage": ""
     },
     {
